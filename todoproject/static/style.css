@@ -1,0 +1,17 @@
+.banner{
+  background-color: red;
+  width:100%;
+  height:200PX;
+  margin-bottom:50PX;
+
+  }
+
+.banner-text{
+top:10%;
+left:40%;
+position:absolute;
+transform:transform
+
+}
+
+
